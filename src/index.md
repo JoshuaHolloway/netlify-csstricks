@@ -5,6 +5,11 @@ layout: layouts/base.njk
 
 # Exploring Netlify with CSS-Tricks
 
+JOSH
+JOSH
+JOSH
+JOSH
+JOSH
 Where to begin? Let's begin here. We've deployed!!!
 
 ## New content is here
